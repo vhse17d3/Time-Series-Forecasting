@@ -1,19 +1,3 @@
-<div style="overflow-x: auto;">
-  <table style="width: auto; border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Header 1</th>
-        <th style="border: 1px solid black; padding: 8px; text-align: left;">Header 2</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Cell 1</td>
-        <td style="border: 1px solid black; padding: 8px; text-align: left;">Cell 2</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 # What is a Time Series?
 - What is a Time Series?
