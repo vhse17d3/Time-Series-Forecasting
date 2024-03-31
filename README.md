@@ -1,15 +1,4 @@
-<style>
-  table {
-    border-collapse: collapse; /* Hợp nhất các đường viền của ô */
-    width: auto; /* Tự động điều chỉnh kích thước bảng */
-    margin: auto; /* Canh giữa bảng */
-  }
-  th, td {
-    border: 1px solid black; /* Đường viền cho mỗi ô */
-    padding: 8px; /* Thêm khoảng cách giữa nội dung và đường viền của ô */
-    text-align: left; /* Canh lề trái cho nội dung trong cột */
-  }
-</style>
+
 # What is a Time Series?
 - What is a Time Series?
 Đối tượng cơ bản của dự báo là Time series, là một tập hợp các quan sát được ghi lại theo thời gian. Trong các ứng dụng dự báo, các quan sát thường được ghi lại với tần suất đều đặn, như hàng ngày hoặc hàng tháng.
